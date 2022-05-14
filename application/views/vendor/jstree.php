@@ -1,0 +1,2 @@
+<link rel="stylesheet" href="<?php echo site_url('assets/vendor/jstree/dist/themes/default/style.min.css') ?>"/>
+<script src="<?php echo site_url('assets/vendor/jstree/dist/jstree.min.js') ?>"></script>

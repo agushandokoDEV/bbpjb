@@ -1,0 +1,2 @@
+<link rel="stylesheet" href="<?php echo site_url('assets/vendor/jconfirm/dist/jquery-confirm.min.css') ?>" />
+<script src="<?php echo site_url('assets/vendor/jconfirm/dist/jquery-confirm.min.js') ?>"></script>

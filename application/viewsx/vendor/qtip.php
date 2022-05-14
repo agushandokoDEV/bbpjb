@@ -1,0 +1,2 @@
+<link rel="stylesheet" href="<?php echo base_url('assets/vendor/qtip/jquery.qtip.min.css') ?>"/>
+<script type="text/javascript" src="<?php echo base_url('assets/vendor/qtip/jquery.qtip.min.js') ?>"></script>
